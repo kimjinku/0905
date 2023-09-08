@@ -61,7 +61,7 @@ class 저장소 {
         System.out.println("사람 값 : " + v);
     }
 
-    static void 저장( 사과 v) {
+    static void 저장(사과 v) {
         System.out.println("사과 값 : " + v);
     }
 }
